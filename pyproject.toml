@@ -6,14 +6,14 @@ authors = ["Leonardo Cavaletti <impeto.blu@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-beautifulsoup4 = "*"
-chromedriver-autoinstaller = "*"
-colorama = "*"
-cssutils = "*"
-requests = "*"
-selenium = "*"
-toml = "*"
-html5lib = "*"
+beautifulsoup4 = "^4.12.3"
+chromedriver-autoinstaller = "^0.6.4"
+colorama = "^0.4.6"
+cssutils = "^2.11.1"
+requests = "^2.32.3"
+selenium = "^4.22.0"
+toml = "^0.10.2"
+html5lib = "^1.1"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
