@@ -5,15 +5,15 @@ description = "Turn Notion pages into lightweight, customizable static websites"
 authors = ["Leonardo Cavaletti <impeto.blu@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
-beautifulsoup4 = "^4.9.1"
-chromedriver-autoinstaller = "^0.2.0"
-colorama = "^0.4.3"
-cssutils = "^1.0.2"
-requests = "^2.23.0"
-selenium = "^3.141.0"
-toml = "^0.10.1"
-html5lib = "^1.1"
+python = "^3.11"
+beautifulsoup4 = "*"
+chromedriver-autoinstaller = "*"
+colorama = "*"
+cssutils = "*"
+requests = "*"
+selenium = "*"
+toml = "*"
+html5lib = "*"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
